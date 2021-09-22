@@ -25,12 +25,6 @@ a {
     margin: 0 auto;
 }
 
-.container: after {
-    content:"";
-    display: block;
-    clear: both;
-}
-
 .menu-icon {
     color: black;
     float: right;
@@ -168,7 +162,6 @@ header ul li a:hover {
     font-size: 20px;
     padding-left:20px;
     padding-top: 0px;
-    padding-bottom: 
 }
 
 .footer{
