@@ -93,18 +93,17 @@ header ul li a:hover {
     font-style: inherit;
 }
 
-.main img {
-    float: right;
-    height: 10px;
-    width: 10px;
-}
 
 .main {
     background-color: rgb(255, 245, 239);
     height: 300px;
     padding-top: 40px;
 }
-
+.main img {
+    float: right;
+    height: 10px;
+    width: 10px;
+}
 .section-wrapper {
     height: 500px;
     padding-bottom: 80px;
