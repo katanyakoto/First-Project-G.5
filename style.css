@@ -95,6 +95,8 @@ header ul li a:hover {
 
 .main img {
     float: right;
+    height: 100px;
+    width: 150px;
 }
 
 .main {
