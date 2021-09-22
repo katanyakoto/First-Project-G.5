@@ -11,12 +11,12 @@ a {
 
 .logo {
     padding: 5px 0;
-    background-color:peachpuff;
-    color:snow;
+    background-color: peachpuff;
+    color: snow;
 }
 
 .logo ul li {
-    display:inline-block;
+    display: inline-block;
     margin-right: 10px;
 }
 
@@ -40,7 +40,7 @@ a {
 }
 
 header {
- background-color:lightyellow;   
+ background-color: lightyellow;   
 }
 
 header h1 {
