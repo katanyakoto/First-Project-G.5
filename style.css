@@ -79,6 +79,7 @@ header ul li a:hover {
     font-size: 120px;
     font-family: 'Berkshire Swash';
     padding-left: 50px;
+    padding-bottom: 50px;
 } 
 
 .main h2 {
@@ -92,6 +93,7 @@ header ul li a:hover {
     padding-left: 110px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-style: inherit;
+    padding-bottom: 50px;
 }
 
 .main img {
