@@ -157,6 +157,7 @@ header ul li a:hover {
     padding-left: 25px;
     padding-right: 30px;
     padding-top: 80px;
+    padding-bottom: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
@@ -169,7 +170,7 @@ header ul li a:hover {
 .footer{
     background-color: bisque;
     padding: 60px 60px;
-    height: 200px;
+    height: 180px;
 }
 
 li {
