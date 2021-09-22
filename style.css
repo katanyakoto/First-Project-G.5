@@ -11,8 +11,8 @@ a {
 
 .logo {
     padding: 5px 0;
-    background-color:peachpuff;
-    color:snow;
+    background-color: peachpuff;
+    color: black;
 }
 
 .logo ul li {
@@ -32,7 +32,7 @@ a {
 }
 
 .menu-icon {
-    color: white;
+    color: black;
     float: right;
     font-size: 25px;
     padding: 21px 0;
