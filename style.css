@@ -25,7 +25,7 @@ a {
     margin: 0 auto;
 }
 
-.container:after {
+.container: after {
     content:"";
     display: block;
     clear: both;
@@ -40,14 +40,14 @@ a {
 }
 
 header {
- background-color:lightyellow;   
+ background-color: lightyellow;   
 }
 
 header h1 {
     float: left;
     padding: 15px 0;
     font-family:'Berkshire Swash';
-    color:rgb(94, 3, 38);
+    color: rgb(94, 3, 38);
 }
 
 header ul {
@@ -59,19 +59,19 @@ header ul li {
 }
 
 header ul li a {
-    padding:25px 26px;
-    display:inline-block;
+    padding: 25px 26px;
+    display: inline-block;
     font-family: 'Architects Daughter';
 }
 
 header ul li a:hover {
-    background-color:bisque;
-    color:rgb(83, 30, 5);
+    background-color: bisque;
+    color: rgb(83, 30, 5);
 }
 
 .active {
-    background-color:linen;
-    color:mediumvioletred;
+    background-color: linen;
+    color: black;
 }
 
 .main h1 {
@@ -83,7 +83,7 @@ header ul li a:hover {
 .main h2 {
     font-size: 30px;
     padding-left: 150px;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
 .main h3 {
@@ -93,17 +93,18 @@ header ul li a:hover {
     font-style: inherit;
 }
 
-
 .main {
     background-color: rgb(255, 245, 239);
     height: 300px;
     padding-top: 40px;
 }
+
 .main img {
     float: right;
     height: 500px;
     width: 500px;
 }
+
 .section-wrapper {
     height: 500px;
     padding-bottom: 80px;
@@ -159,7 +160,7 @@ header ul li a:hover {
     padding-left: 25px;
     padding-right: 30px;
     padding-top: 80px;
-    font-family: 'Berkshire Swash';
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .footer h2 {
@@ -168,7 +169,6 @@ header ul li a:hover {
     padding-top: 0px;
     padding-bottom: 
 }
-
 
 .footer{
     background-color: bisque;
