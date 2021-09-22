@@ -69,7 +69,7 @@ header ul li a:hover {
 }
 .main {
     background-color: rgb(255, 245, 239);
-    height: 300px;
+    height: 900px;
     padding-top: 40px;
     text-align: center;
     float: center;
@@ -79,7 +79,8 @@ header ul li a:hover {
     font-size: 120px;
     font-family: 'Berkshire Swash';
     padding-left: 50px;
-    padding-bottom: 50px;
+    text-align: center;
+    padding-top: 50px;
 } 
 
 .main h2 {
@@ -156,7 +157,7 @@ header ul li a:hover {
     text-align: left;
     padding-left: 25px;
     padding-right: 30px;
-    padding-top: 80px;
+    padding-top: 5px;
     padding-bottom: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -165,9 +166,10 @@ header ul li a:hover {
     font-size: 20px;
     padding-left:20px;
     padding-top: 0px;
+
 }
 
-.footer{
+footer{
     background-color: bisque;
     padding: 60px 60px;
     height: 180px;
@@ -176,6 +178,7 @@ header ul li a:hover {
 li {
     list-style: none;
     padding-left: 20px;
+    padding-bottom: 10px;
 }
 
 .footer-logo {
@@ -195,4 +198,8 @@ li {
   
 .footer-list li {
     padding-bottom : 10px;
+}
+
+.clear {
+    clear: left;
 }
