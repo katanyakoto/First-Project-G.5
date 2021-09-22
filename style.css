@@ -33,6 +33,142 @@ a {
 
 .menu-icon {
     color: white;
+     float: right;
+    font-size: 25px;
+    padding: 21px 0;
+    display: none;
+}
+
+header {
+ background-color:lightyellow;   
+}
+
+header h1 {
+    float: left;
+    padding: 15px 0;
+    font-family:'Berkshire Swash';
+    color:rgb(94, 3, 38);
+}
+
+header ul {
+    float: right;
+}
+
+header ul li {
+    display: inline-block;
+}
+
+header ul li a {
+    padding:25px 26px;
+    display:inline-block;
+    font-family: 'Architects Daughter';
+}
+
+header ul li a:hover {
+    background-color:bisque;
+    color:rgb(83, 30, 5);
+}
+
+.active {
+    background-color:linen;
+    color:mediumvioletred;
+}
+
+.section-wrapper {
+    height: 500px;
+    padding-bottom: 80px;
+    text-align: center;
+    background-color: rgb(255, 245, 239);
+}
+
+.sections {
+    position: relative;
+    opacity: 0.9;
+    float: left;
+    width: 25%;
+}
+    
+.sections:hover {
+      opacity: 1;
+}
+    
+.sections img {
+      padding-top: 15px;
+      height: 100px;
+      width: 100%;
+}
+    
+.sections p {
+      padding-bottom: 15px;
+}
+    
+.part-icon1 {
+      background-color: #79addc;
+}
+
+.img {
+      margin: 40px auto;
+}
+
+.part-icon2 {
+      background-color: #ffc09f;
+      padding: auto;
+}
+    
+.part-icon3 {
+      background-color: #ffee93;
+}
+
+.part-icon4 {
+      background-color: #fcf5c7;
+}
+
+.footer h1{
+    font-size: 30px;
+    text-align: left;
+    padding-left: 25px;
+    padding-right: 30px;
+    padding-top: 80px;
+    font-family: 'Berkshire Swash';
+}
+
+.footer h2 {
+    font-size: 20px;
+    padding-left:20px;
+    padding-top: 0px;
+    padding-bottom: 
+}
+
+
+.footer{
+    background-color: bisque;
+    padding: 60px 60px;
+    height: 350px;
+}
+
+li {
+    list-style: none;
+    padding-left: 20px;
+}
+
+.footer-logo {
+    float: left;
+    font-size: 15px;
+    padding-bottom: 10px;
+    padding-top: 60px;
+    padding-left: 5px;
+}
+
+.footer-list {
+    float: right;
+    padding-right: 10px;
+    padding-top: 150px;
+    padding-bottom: 0px;
+}
+  
+.footer-list li {
+    padding-bottom : 10px;
+}
     float: right;
     font-size: 25px;
     padding: 21px 0;
