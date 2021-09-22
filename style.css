@@ -73,6 +73,13 @@ header ul li a:hover {
     background-color: linen;
     color: black;
 }
+.main {
+    background-color: rgb(255, 245, 239);
+    height: 300px;
+    padding-top: 40px;
+    text-align: center;
+    float: center;
+}
 
 .main h1 {
     font-size: 120px;
@@ -91,12 +98,6 @@ header ul li a:hover {
     padding-left: 129px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-style: inherit;
-}
-
-.main {
-    background-color: rgb(255, 245, 239);
-    height: 300px;
-    padding-top: 40px;
 }
 
 .main img {
