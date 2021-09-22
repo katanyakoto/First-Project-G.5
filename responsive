@@ -1,0 +1,56 @@
+@media all and (max-width: 1000px) {
+    .sections {
+        width: 100%;
+        margin-bottom: 35px;
+    }
+
+    .top-wrapper h1 {
+        font-size: 32px;
+    }
+
+    .heading h2 {
+        font-size: 15px
+    }
+}
+
+@media all and (max-width: 670px) {
+    .section-wrapper {
+        width: 100%;
+        padding: 0 15px 7px 16px;
+    }
+      
+    .sections {
+        margin: 35px;
+        font-size: 15px;
+        width: 80%;
+    }
+
+    .section p {
+        position: absolute;
+    }
+
+    .main img {
+        width: 350px;
+    }
+    
+    .top-wrapper {
+        text-align: left;
+    }
+
+    .top-wrapper h1 {
+        font-size: 12px;
+    }
+
+    header ul li a {
+        display: none;
+      }
+     
+     .menu-icon {
+       display: block;
+     }
+
+     footer {
+         text-align: center;
+     }
+
+}
