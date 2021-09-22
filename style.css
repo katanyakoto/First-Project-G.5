@@ -73,7 +73,14 @@ header ul li a:hover {
     background-color:linen;
     color:mediumvioletred;
 }
-
+.main h1 {
+    font-size: 50px;
+    text-align: Left;
+    float: left;
+}
+.img {
+    float:right;
+}
 .section-wrapper {
     height: 500px;
     padding-bottom: 80px;
