@@ -1,8 +1,15 @@
 @media all and (max-width: 1000px) {
-    .sections {
-         margin: 35px;
-         font-size: 15px;
-         width: 80%;
+    .lesson {
+        width: 50%;
+        margin-bottom: 35px;
+    }
+
+    .top-wrapper h1 {
+        font-size: 32px;
+    }
+
+    .heading h2 {
+        font-size: 15px
     }
 }
 
@@ -24,5 +31,9 @@
      
      .menu-icon {
        display: block;
+     }
+
+     footer {
+         text-align: center;
      }
 }
